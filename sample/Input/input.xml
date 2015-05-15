@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<qaQcCoverageInput>
+	<sequenceFileName>forward.fastq</sequenceFileName>
+	<sequenceFileName>reverse.fastq</sequenceFileName>
+	<sequencingType>Illumina MiSeq</sequencingType>
+	<approximateGenomeSize>4500000</approximateGenomeSize>
+	<coverageThreshold>20</coverageThreshold>
+</qaQcCoverageInput>
